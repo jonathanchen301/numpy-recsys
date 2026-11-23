@@ -221,3 +221,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local datasets (MovieLens). Root-anchored so a future src data package is not ignored.
+/data/
